@@ -1,4 +1,3 @@
-# GUI.py
 import pygame
 import random
 from boards import *
